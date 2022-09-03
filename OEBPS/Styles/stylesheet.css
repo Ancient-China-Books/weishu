@@ -143,8 +143,17 @@ p:before{
 p:hover .gg-link {
   visibility: visible;
 }
+p.margin1 {
+  margin-left: 1em;
+}
 p.margin2 {
-  margin-left:2em;
+  margin-left: 2em;
+}
+p.margin3 {
+  margin-left: 3em;
+}
+p.margin4 {
+  margin-left: 4em;
 }
 p.strong {
   font-weight: bold;
