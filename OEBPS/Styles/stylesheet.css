@@ -171,7 +171,7 @@ table td {
   border: #b9ccf9 1px solid;
   letter-spacing: 0;
 }
-/*.shu-ming {
-  text-decoration: currentColor wavy underline;
+.shu-ming {
+  text-decoration: #777 wavy underline;
   text-decoration-thickness: 0.9px;
-}*/
+}
